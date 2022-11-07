@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/legacyteam-app/static/css/main.2bc6e3df.css",
+    "main.js": "/legacyteam-app/static/js/main.20a5bba4.js",
+    "static/js/787.f1f3f56a.chunk.js": "/legacyteam-app/static/js/787.f1f3f56a.chunk.js",
+    "static/media/SSBU.png": "/legacyteam-app/static/media/SSBU.1d9a3a07205693ca7fb2.png",
+    "static/media/SSBU-Corneria.png": "/legacyteam-app/static/media/SSBU-Corneria.e887df83d40c75e345a5.png",
+    "static/media/SSBU-Flat_ZoneCut.png": "/legacyteam-app/static/media/SSBU-Flat_ZoneCut.47967fd248ae912c2c83.png",
+    "static/media/SSBU-3D_Land.png": "/legacyteam-app/static/media/SSBU-3D_Land.196f00ae3bd21d48db30.png",
+    "static/media/SSBU-Shadow_Moses_Island_2.jpg": "/legacyteam-app/static/media/SSBU-Shadow_Moses_Island_2.34633c1f1145ba5c8779.jpg",
+    "static/media/lst-logo.jpeg": "/legacyteam-app/static/media/lst-logo.83795ebc1bf6072919e4.jpeg",
+    "static/media/gnw.png": "/legacyteam-app/static/media/gnw.e9c3b6c61e03d2329244.png",
+    "index.html": "/legacyteam-app/index.html",
+    "main.2bc6e3df.css.map": "/legacyteam-app/static/css/main.2bc6e3df.css.map",
+    "main.20a5bba4.js.map": "/legacyteam-app/static/js/main.20a5bba4.js.map",
+    "787.f1f3f56a.chunk.js.map": "/legacyteam-app/static/js/787.f1f3f56a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc6e3df.css",
+    "static/js/main.20a5bba4.js"
+  ]
+}
