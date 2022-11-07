@@ -5,7 +5,7 @@
 
 > About
 
-### 🏠 [Homepage0](https://randellscaballero.github.io/legacyteam-app/)
+### 🏠 [Homepage](https://randellscaballero.github.io/legacyteam-app/)
 
 ## Author
 
