@@ -1,0 +1,79 @@
+#honorable-mention {
+    background-color: rgb(30, 30, 30);
+    color: white;
+    text-align: center;
+}
+
+.honorable-mention{
+    padding: 150px 0px;
+}
+
+.honorable-mention h2{
+    margin-top: 0;
+    font-size: 2.7em;
+}
+
+
+.honorable-mention .card{
+    background-size: cover;
+    background-position: center;
+    padding: 60px;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+.card:first-child{
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),url("../images/SSBU-Shadow_Moses_Island_2.jpg");
+}
+
+.card:nth-child(2){
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),url("../images/SSBU-Corneria.png");
+}
+
+.card:nth-child(3){
+    background-image: linear-gradient(
+        0deg,
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ),url("../images/SSBU-3D_Land.png");
+}
+
+@media (max-width: 721px){
+    #honorable-mention p{
+        font-size: 0.8em;
+    }
+}
+
+@media (min-width: 720px){
+    #honorable-mention .mention-section{
+        display: flex;
+        justify-content: center;
+        height: 400px;
+    }
+
+    #honorable-mention p{
+        display: block;
+        margin-bottom: 30px;
+    }
+
+    #honorable-mention button{
+        display: none;
+    }
+
+    #honorable-mention h3{
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+
+    #honorable-mention .card{
+        padding: 15px;
+    }
+}
